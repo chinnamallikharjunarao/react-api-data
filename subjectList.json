@@ -1,9 +1,9 @@
 {
   "itemList": [
-    { id: 1, name: "Learn React Basic", done: true },
-    { id: 2, name: "Learn React Router", done: false },
-    { id: 3, name: "Learn React State", done: false },
-    { id: 4, name: "Learn React Props", done: false },
-    { id: 5, name: "Learn React Hooks", done: false }
+    { "id": 1, "name": "Learn React Basic", "done": true },
+    { "id": 2, "name": "Learn React Router", "done": false },
+    { "id": 3, "name": "Learn React State", "done": false },
+    { "id": 4, "name": "Learn React Props", "done": false },
+    { "id": 5, "name": "Learn React Hooks", "done": false }
   ]
 }
