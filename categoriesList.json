@@ -1,26 +1,26 @@
 {
-  "categoriesList": [
+  "categoriesList" : [
     { 
-            id: 1, name: 'Dairy, Bread & Eggs', imgPath: '../images/category-dairy-bread-eggs.jpg',
-            subcategories: ['Milk', 'Curd', 'Eggs', 'Bread', 'Bun', 'Butter', 'Cheese', 'Paneer'] 
+        "id": 1, "name": "Dairy, Bread & Eggs", "imgPath": "../images/category-dairy-bread-eggs.jpg",
+        "subcategories": ["Milk", "Curd", "Eggs", "Bread", "Bun", "Butter", "Cheese", "Paneer"] 
+    },
+    { "id": 2, "name": "Snack & Munchies", "imgPath": "../images/category-snack-munchies.jpg",
+        "subcategories": ["Chips & Crisps","Nachos","Popcorn","Nuts & Dry Fruits","Chocolates & Candies","Cookies & Biscuits"]
         },
-        { id: 2, name: 'Snack & Munchies', imgPath: '../images/category-snack-munchies.jpg',
-            subcategories: ['Chips & Crisps','Nachos','Popcorn','Nuts & Dry Fruits','Chocolates & Candies','Cookies & Biscuits']
-         },
-        { id: 3, name: 'Backery & Biscuites', imgPath: '../images/category-bakery-biscuits.jpg',
-            subcategories: ['Cookies', 'Biscuits', 'Cakes', 'Pastries', 'Bread', 'Buns']
-         },
-        { id: 4, name: 'Cold Drinks & Juices', imgPath: '../images/category-instant-food.jpg',
-            subcategories: []
-         },
-        { id: 5, name: 'Breakfast & Instant Food', imgPath: '../images/category-tea-coffee-drinks.jpg',
-            subcategories: []
-         },
-        { id: 6, name: 'Chicken, Meat & Fish', imgPath: '../images/category-atta-rice-dal.jpg',
-            subcategories: []
-         },
-        { id: 11, name: 'Fruits & Vegetables', imgPath: '../images/category-fruits-vegetables.jpg',
-            subcategories: []
-         }
+    { "id": 3, "name": "Backery & Biscuites", "imgPath": "../images/category-bakery-biscuits.jpg",
+        "subcategories": ["Cookies", "Biscuits", "Cakes", "Pastries", "Bread", "Buns"]
+        },
+    { "id": 4, "name": "Cold Drinks & Juices", "imgPath": "../images/category-instant-food.jpg",
+        "subcategories": []
+        },
+    { "id": 5, "name": "Breakfast & Instant Food", "imgPath": "../images/category-tea-coffee-drinks.jpg",
+        "subcategories": []
+        },
+    { "id": 6, "name": "Chicken, Meat & Fish", "imgPath": "../images/category-atta-rice-dal.jpg",
+        "subcategories": []
+        },
+    { "id": 11, "name": "Fruits & Vegetables", "imgPath": "../images/category-fruits-vegetables.jpg",
+        "subcategories": []
+        }
   ]
 }
