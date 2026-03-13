@@ -1,0 +1,16 @@
+{
+  "categories": [
+    { "id": 1, "name": "Dairy, Bread & Eggs", "imgPath": "../images/category-dairy-bread-eggs.jpg" },
+    { "id": 2, "name": "Snack & Munchies", "imgPath": "../images/category-snack-munchies.jpg" },
+    { "id": 3, "name": "Backery & Biscuites", "imgPath": "../images/category-bakery-biscuits.jpg" },
+    { "id": 4, "name": "Instant Food", "imgPath": "../images/category-instant-food.jpg" },
+    { "id": 5, "name": "Tea, Coffee & Drinks", "imgPath": "../images/category-tea-coffee-drinks.jpg" },
+    { "id": 6, "name": "Atta, Rice & Dal", "imgPath": "../images/category-atta-rice-dal.jpg" },
+    { "id": 7, "name": "Baby Care","imgPath": "../images/category-baby-care.jpg" },
+    { "id": 8, "name": "Chicken, Meat & Fish", "imgPath": "../images/category-chicken-meat-fish.jpg" },
+    { "id": 9, "name": "Cleaning Essentials", "imgPath": "../images/category-cleaning-essentials.jpg" },
+    { "id": 10, "name": "Pet Care", "imgPath": "../images/category-pet-care.jpg" },
+    { "id": 11, "name": "Fruits & Vegetables", "imgPath": "../images/category-fruits-vegetables.jpg" },
+    { "id": 12, "name": "Vegetables", "imgPath": "../images/category-cold-drinks-juices.jpg" }
+  ]
+}
